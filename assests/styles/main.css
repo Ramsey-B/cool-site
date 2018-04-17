@@ -1,0 +1,35 @@
+.title {
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+.head {
+    background: darkblue;
+}
+.main-body {
+    float: left;
+    width: 60%;
+    text-align: center;
+    margin: 0rem 0rem 0rem 10%;
+}
+.related-article {
+    float: right;
+    width: 20%;
+    padding: 0rem 3rem;
+}
+.footer {
+    background-color: darkblue;
+    padding: 2rem 100%;
+    display: inline-block;
+}
+.related-header {
+    text-align: center;
+}
+.body-text {
+    padding: 0rem 10rem;
+    text-align: left;
+}
+.line {
+    background-color: lightblue;
+    padding: .5rem 2rem;
+}
